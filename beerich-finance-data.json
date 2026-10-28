@@ -1,0 +1,124 @@
+{
+  "app": "BeeRich Finance",
+  "version": 1,
+  "updatedAt": 1793204028772,
+  "updatedAtText": "23:13:48 28/10/2026",
+  "finances": {
+    "currentMoney": 1570349,
+    "savings": 0,
+    "gold": 14850000,
+    "hideCurrentMoney": false,
+    "transactions": [
+      {
+        "id": "legacy-2026-10-1793146168232",
+        "name": "Xôi",
+        "amount": 10000,
+        "date": "2026-10-28",
+        "type": "expense",
+        "createdAt": 1793146140000,
+        "balanceApplied": false,
+        "legacyImported": true
+      },
+      {
+        "id": "legacy-2026-10-1792975207925",
+        "name": "Hàng",
+        "amount": 7000,
+        "date": "2026-10-26",
+        "type": "expense",
+        "createdAt": 1792975140000,
+        "balanceApplied": false,
+        "legacyImported": true
+      },
+      {
+        "id": "legacy-2026-10-1792855703380",
+        "name": "Hàng",
+        "amount": 6000,
+        "date": "2026-10-24",
+        "type": "expense",
+        "createdAt": 1792855680000,
+        "balanceApplied": false,
+        "legacyImported": true
+      },
+      {
+        "id": "legacy-2026-10-1792855689689",
+        "name": "Mừng",
+        "amount": 500000,
+        "date": "2026-10-24",
+        "type": "expense",
+        "createdAt": 1792855620000,
+        "balanceApplied": false,
+        "legacyImported": true
+      },
+      {
+        "id": "legacy-2026-10-1792753799112",
+        "name": "Tóc",
+        "amount": 30000,
+        "date": "2026-10-23",
+        "type": "expense",
+        "createdAt": 1792753740000,
+        "balanceApplied": false,
+        "legacyImported": true
+      },
+      {
+        "id": "legacy-2026-10-1792730143048",
+        "name": "Xăng",
+        "amount": 70000,
+        "date": "2026-10-23",
+        "type": "expense",
+        "createdAt": 1792730100000,
+        "balanceApplied": false,
+        "legacyImported": true
+      },
+      {
+        "id": "legacy-2026-10-1792693491688",
+        "name": "SIM CODE",
+        "amount": 10000,
+        "date": "2026-10-23",
+        "type": "expense",
+        "createdAt": 1792693440000,
+        "balanceApplied": false,
+        "legacyImported": true
+      },
+      {
+        "id": "legacy-2026-10-1792469309151",
+        "name": "Thuốc",
+        "amount": 18000,
+        "date": "2026-10-20",
+        "type": "expense",
+        "createdAt": 1792469280000,
+        "balanceApplied": false,
+        "legacyImported": true
+      },
+      {
+        "id": "legacy-2026-10-1792415099584",
+        "name": "Em Trí đóng lãi",
+        "amount": 110000,
+        "date": "2026-10-19",
+        "type": "income",
+        "createdAt": 1792415040000,
+        "balanceApplied": false,
+        "legacyImported": true
+      },
+      {
+        "id": "legacy-2026-10-1792314796721",
+        "name": "Tiền mẹ cho",
+        "amount": 8000,
+        "date": "2026-10-18",
+        "type": "income",
+        "createdAt": 1792314720000,
+        "balanceApplied": false,
+        "legacyImported": true
+      },
+      {
+        "id": "legacy-2026-10-1792301980993",
+        "name": "TIỀN HÀNG",
+        "amount": 9000,
+        "date": "2026-10-18",
+        "type": "expense",
+        "createdAt": 1792301880000,
+        "balanceApplied": false,
+        "legacyImported": true
+      }
+    ]
+  }
+}
