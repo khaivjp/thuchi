@@ -1,12 +1,12 @@
 {
   "app": "BeeRich Finance",
   "version": 1,
-  "updatedAt": 1793204149486,
-  "updatedAtText": "23:15:49 28/10/2026",
+  "updatedAt": 1793204157789,
+  "updatedAtText": "23:15:57 28/10/2026",
   "finances": {
     "currentMoney": 1570349,
     "savings": 40000000,
-    "gold": 14850000,
+    "gold": 13000000,
     "hideCurrentMoney": false,
     "transactions": []
   }
