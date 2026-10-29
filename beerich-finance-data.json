@@ -1,10 +1,10 @@
 {
   "app": "BeeRich Finance",
   "version": 1,
-  "updatedAt": 1793236491503,
-  "updatedAtText": "08:14:51 29/10/2026",
+  "updatedAt": 1793244966433,
+  "updatedAtText": "10:36:06 29/10/2026",
   "finances": {
-    "currentMoney": 8964000,
+    "currentMoney": 8949000,
     "savings": 40000000,
     "gold": 13000000,
     "hideCurrentMoney": false,
@@ -16,6 +16,15 @@
         "date": "2026-10-29",
         "type": "expense",
         "createdAt": 1793236489572,
+        "balanceApplied": true
+      },
+      {
+        "id": "90fee808-fd5c-4055-912d-a12f7b310718",
+        "name": "Nước",
+        "amount": 15000,
+        "date": "2026-10-29",
+        "type": "expense",
+        "createdAt": 1793244964576,
         "balanceApplied": true
       }
     ]
