@@ -1,13 +1,23 @@
 {
   "app": "BeeRich Finance",
   "version": 1,
-  "updatedAt": 1793204169631,
-  "updatedAtText": "23:16:09 28/10/2026",
+  "updatedAt": 1793236491503,
+  "updatedAtText": "08:14:51 29/10/2026",
   "finances": {
-    "currentMoney": 10000000,
+    "currentMoney": 8964000,
     "savings": 40000000,
     "gold": 13000000,
     "hideCurrentMoney": false,
-    "transactions": []
+    "transactions": [
+      {
+        "id": "1152c98c-908f-4462-a0a7-f0b7b0b77e3e",
+        "name": "Trọ",
+        "amount": 1036000,
+        "date": "2026-10-29",
+        "type": "expense",
+        "createdAt": 1793236489572,
+        "balanceApplied": true
+      }
+    ]
   }
 }
